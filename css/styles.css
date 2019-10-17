@@ -46,7 +46,7 @@ p {
 .Header{
   text-align: center;
   position: relative;
-  background-color: #f0decb;
+  background-color: #ffafb0;
 }
 
 .Profile {
@@ -84,7 +84,7 @@ width: 10%;
   right: 50px;
 }
 .Education {
-  background-color: #ffddcc;
+  background-color: #f0decb;
   position: relative;
   margin: 120px auto;
   padding: 50px;
