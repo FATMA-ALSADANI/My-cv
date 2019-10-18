@@ -1,0 +1,222 @@
+/****************************************** TAG style *************************************/
+body {
+  background-color: #f5f0e3;
+  margin: 0;
+  font-size: 100%;
+  font-family: 'Merriweather', serif;
+}
+a {
+  color: #5f6769;
+  text-decoration: underline;
+}
+a:hover{
+  color: #f6f6f6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #dAdAdA;
+  height: 0;
+  border-width: 1px;
+  width: 35%;
+}
+
+h1 {
+  color: #e4406f;
+  margin: 40px auto 0 auto;
+  position: relative;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  font-weight: bold;
+}
+
+h2 {
+  color: #e4406f;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 3% auto 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Cabin', sans-serif;
+  color: #900c3f;
+}
+
+h4 {
+  font-family: 'Signika', sans-serif;
+  color: #233567;
+  font-size: 1.5rem;
+  margin: 6% 0 0;
+}
+
+p {
+  color: #480032;
+  font-size: 1.2em;
+  font-family: 'Signika', sans-serif;
+}
+
+td {
+  margin: 3%;
+  padding: 2.5%;
+}
+
+/****************************************** CLASS style *************************************/
+.Header {
+  text-align: center;
+  position: relative;
+  background-color: #ffcece;
+}
+
+.desc {
+  position: relative;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+  color: #e4406f;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: relative;
+  width: 10%;
+  left: 20%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  width: 10%;
+  position: relative;
+  bottom: 200px;
+  right: 50px;
+}
+
+.rainbow {
+  width: 35%;
+  position: relative;
+  margin: 0 0 20px;
+  right: 38%;
+  bottom: 20px;
+}
+
+/* Navbar */
+.navbar {
+  background-color: black;
+}
+.bar{
+position:fixed;
+left: 90%;
+}
+
+
+/* Profile */
+.Profile {
+  position: relative;
+  margin: 5% auto;
+  text-align: center;
+}
+
+.prof-row {
+  margin: 3% auto;
+  padding: 3% 8%;
+}
+
+/* Education */
+.Education {
+  background-color: #ffdfdf;
+  position: relative;
+  margin: 120px auto;
+  padding: 50px;
+}
+
+/* Skills */
+.Skills {
+  background-color: #ffdfdf;
+  padding: 2% 7%;
+  margin: 5% 0;
+}
+
+.poster {
+  position: relative;
+  left: 0;
+}
+
+.stars {
+  color: #f7be16;
+  font-size: 1.5rem;
+}
+.skills{
+  position: relative;
+  display: block;
+  width: 50%;
+  float: left;
+  line-height: 2;
+}
+.skills:hover {
+  font-size: 1.7rem;
+}
+
+/* Projects */
+.Projects{
+  margin: 7% 0 30%;
+}
+
+.carousel-item{
+  padding: 5% 15%;
+}
+
+/* Contact */
+.Bottom-Container {
+  background-color: #ffcece;
+  margin: 20px auto 0 auto;
+  padding: 10px;
+}
+
+.contact {
+  margin: 20px auto 0 auto;
+  border-spacing: 7px;
+}
+
+.credits {
+  color: #5f6769;
+  font-size: 13px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.contact-me {
+  font-size: 13px;
+  margin: 20px auto;
+  text-align: center;
+  width: 60%;
+}
+
+.fb, .twitt, .insta, .linked, .mail {
+  text-decoration: none;
+}
+
+.fb:hover {
+  color: #f6f6f6;
+}
+
+.twitt:hover {
+  color: #f6f6f6;
+}
+
+.mail:hover {
+  color: #f6f6f6;
+}
+
+.insta:hover {
+  color: #f6f6f6;
+}
+
+.linked:hover {
+  color: #f6f6f6;
+}
+
+
+
+/****************************************** ID style *************************************/
