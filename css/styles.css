@@ -123,14 +123,6 @@ left: 90%;
   padding: 3% 8%;
 }
 
-/* Education */
-.Education {
-  background-color: #ffdfdf;
-  position: relative;
-  margin: 120px auto;
-  padding: 50px;
-}
-
 /* Skills */
 .Skills {
   background-color: #ffdfdf;
@@ -160,11 +152,11 @@ left: 90%;
 
 /* Projects */
 .Projects{
-  margin: 7% 0 15%;
+  margin: 7% 0 7%;
 }
 
 .carousel-item{
-  padding: 5% 10%;
+  padding: 5% 15%;
 }
 
 /* Contact */
